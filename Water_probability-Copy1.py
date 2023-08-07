@@ -36,13 +36,13 @@ data.info()
 
 
 data.head()
-
+data.tail()
 
 # In[15]:
 
 
 data.isnull().sum()
-
+data.duplicated()
 
 # In[18]:
 
